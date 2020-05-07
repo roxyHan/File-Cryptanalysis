@@ -11,6 +11,10 @@ int main(int argc, char* argv[]) {
                 << endl;
         return EXIT_FAILURE;
     }
+    else if (argc > 2) {
+        cout << "Please only provide the name of the file." << endl;
+        return EXIT_FAILURE;
+    }
     // Get the filename
     string filename = argv[1];
 

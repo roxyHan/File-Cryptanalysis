@@ -19,7 +19,7 @@ void LetterFrequency::central(std::string filename) {
     ifstream fileContent(filename);
 
     if (!fileContent) {
-        cout << "Issue with reading the file" << endl;
+        cout << "Issue with reading the file. No such file." << endl;
         exit(5);
     }
 
@@ -32,6 +32,7 @@ void LetterFrequency::central(std::string filename) {
         characters.push_back(c);
     }
 
+    // Empty file
     if (characters.empty()) {
         cout << "The file is empty; "
                 "thus, statistics is 0 for all letters."
@@ -47,7 +48,9 @@ void LetterFrequency::central(std::string filename) {
     // Using pipes to communicate between child and parent
     // Child computes the count and parent prints the result.
     int status;
-    char letter = 'a';
+    char letter = 'a';  // Starting character
+
+    cout << "Statistics in " << filename << endl;
 
     for (int i = 0; i < 26; i++) {
         // Create pipe
@@ -77,13 +80,15 @@ void LetterFrequency::central(std::string filename) {
             close(pipefds[1]);
             read(pipefds[0], &value, sizeof(value));
             close(pipefds[0]);
-            cout << "[" << letter << "] = " << value << endl;
+            char upper = toupper(letter);
+            cout << "[" << letter << "-" << upper << "] = " << value << endl;
 
             waitpid(pid, &status, 0);
         }
         else {
             cout << "Error in attempt to fork this process" << endl;
         }
+        // Incrementing the character to get to the next one in the ASCII code
         letter++;
     }
 }
