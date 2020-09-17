@@ -1,5 +1,5 @@
-# LetterOccurences
-This program will help us calculate the number of occurences of each letter from a plain txt file.
+# File Cryptanalysis
+This program will help us calculate the letter frequency from a plain txt file.
 
 # *To compile
 g++ main.cpp LetterFrequency.cpp LetterFrequency.h
