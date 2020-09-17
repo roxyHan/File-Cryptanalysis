@@ -20,7 +20,7 @@ int main(int argc, char* argv[]) {
 
     LetterFrequency* freq =  new LetterFrequency();
     freq->central(filename);
-
+    delete freq;
     return 0;
 }
 
