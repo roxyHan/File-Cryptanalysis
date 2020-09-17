@@ -1,0 +1,118 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+
+@roxyHan
+Learn Git and GitHub ithoutxx any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+matiassingers
+/
+awesome-readme
+148
+6.2k1.6k
+ Code
+ Issues 311
+
+Awesome README Awesome
+A curated list of awesome READMEs
+
+Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
+
+ExcwWmples
+ai/size-limit - Project logo, clear description, screenshot, step-by-step installing instructions.
+aimeos/aimeos-typo3 - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
+alichtman/stronghold - Project logo. Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
+amitmerchant1990/electron-markdownify - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
+anfederico/Clairvoyant - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
+ngcolombia/medellin - Project banXXxner. Badges for stats. Well placed emoticons. Contributor's photos.
+Armync/Arminc-AutoExec - Rich Markdown functions, modern layout, clear description and compliant with the recommended community standards.
+athityakumar/colorls - MultiZZZZple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
+ccostan/Home-AssistantConfig - Project Banner. Badges. Easy navigation.
+choojs/choo - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
+Day8/re-frame - Badges, logo, TOC, etc. Stands xout by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
+iterative/dvc - ReStructuredText format example, PyPi compatible. Logo, custom website-like menu. Smooth how-it-works animation. Badges. Nice contribution section with the hall-of-fame.
+github-changelog-generator/github-changelog-generator - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
+gitpoint/git-point - Clear description. Project Logo. App Store logos. TOC. Clean screenshots. List of features. Detailed installation process. Landing Page.
+Hexworks/Zircon - Dogfood in readme. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
+iharsh234/WebApp - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
+jakubroztocil/httpie - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
+karan/joe - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
+Martinsos/edlib - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.
+nhn/tui.editor - Project logo. Clear overview of project features with a demo GIF. Badges. TOC for easy navigation. Colorful icons in front of titles.
+node-chat - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
+NSRare/NSGIF - Project logo. GIF Demo. Usage artwork. Usage code samples.
+sidneycadot/oeis - Overview. List of required dependencies. Complete list of all files in the repo and what their function is. Visual graph of how it all ties together.
+php-censor/php-censor - Multiple badges, project logo, screenshots, step-by-step installing and upgrading instructions, TOC for easy navigation.
+Rebilly/redoc - Multiple badges, project logo, live demo link, GIF-animations of the key features, TL;DR usage.
+React on lambda - Project logo, comics to present the main idea, badges, examples with code snippets, demo projects, api documentations, editor configurations.
+React Parallax Tilt - GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
+rstacruz/hicat - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
+ryanoasis/nerd-fonts - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.
+sebyddd/SDVersion - Project logo. Build badges. Documentation structuring for multiple programming languages. Usage examples.
+shama/gaze - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
+sindresorhus/pageres - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
+sourcerer-io/sourcerer-app - Clean animated screenshot. Customized call to action badge. Usage showcase.
+sr6033/lterm - Clean logo using characters. Brief updates on development. Detailed contribution guidelines. Contribution suggestions.
+sulu/sulu - Project logo, useful badges, clear instructions on where to find more information and report bugs, GIF screenshots, nice use of emoticons.
+supunlakmal/thismypc - Project logo. Useful badges. Web site URL. Screenshot. GIF step-by-step instructions for installation. Project folder structure.
+teles/array-mixer - Clean project logo, badges. Table of contents. Contributing section. Many illustrated examples.
+thelounge/thelounge - Project logo. Useful badges and links (website, docs, demo). Screenshot. Feature list. Step-by-step instructions for installation, development, and testing. Link to the contributing guide. Good mobile summary.
+vhesener/Closures - Project logo, cognitive funnel, animated examples. Color coordinated. Clean documentation.
+release-it/release-it - Clear overview of project features with a demo GIF. Badges. Expandable TOC. Usage description and examples. Contribution guidelines. Detailed releases.
+dowjones/react-dropdown-tree-select - Clear readme with GIF screenshot for quick demo. Multiple badges, concise ToC, online playground, storybook, detailed description and more.
+Articles
+"Art of Readme - Learn the art of writing quality READMEs." - Stephen Whitmore
+"How To Write A Great README" - Caleb Thompson (thoughtbot)
+"Readme Driven Development" - Tom Preston-Werner
+"Top ten reasons why I won’t use your open source project" - Adam Stacoviak
+"What I learned from an old GitHub project that won 3,000 Stars in a Week" - KyuWoo Choi
+Tools
+Common Readme - A common readme style for Node. Includes a guide and a readme generator.
+Feedmereadmes - README editing and project analysis/feedback.
+Hall-of-fame - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
+Make a README - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
+README best practices - A place to copy-paste your README.md from
+readme-md-generator - A CLI that generates beautiful README.md files
+Standard Readme - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
+Zalando's README Template - Simple template to help you cover all the basics.
+Creating GIFs
+Embedding an animated gif in your README quickly demonstrates what your project does and catches the reader's eye. Here are a few programs that can help you quickly create gifs for your project:
+
+Gifox - $4.99 - Cleanest UI, hotkeys, lots of advanced features
+Giphy Capture - FREE - Easy to upload to giphy.com, slightly annoying UX.
+LICEcap - FREE - Less intuitive, more features
+Recordit - FREE - Simple, clean UI, but auto-uploads to recordit.co
+Peek - FREE - Simple and easy to use for Linux users.
+ScreenToGif - FREE - Open source, customizable UI and easily editable GIFs, easy to get started.
+ttystudio - FREE - For commandline tools, a terminal-to-gif recorder minus the headaches.
+Gifski - FREE - More vivid colors than the rest, but still keep size low
+Get Feedback
+feedmereadmes - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
+maintainer.io - Free README standardization and feedback, if you click on 'Book an audit'.
+This repository. Submit a PR with your README!
+Contribute
+Contributions are always welcome! Please read the contribution guidelines first.
+
+License
+CC0
+
+To the extent possible under law, Matias Singers has waived all copyright and related or neighboring rights to this work.
+
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
